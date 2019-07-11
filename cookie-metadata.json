@@ -3,5 +3,6 @@
   "description": "🍪🍪🍪🍪🍪", 
   "external_url": "https://dani.town", 
   "image": "https://raw.githubusercontent.com/danigrant/nft-bage-img/master/cookie.png", 
-  "name": "Crypto Cookie"
+  "name": "Crypto Cookie",
+  "background_color": "ffdbe7"
 }
